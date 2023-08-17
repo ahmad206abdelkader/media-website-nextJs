@@ -1,0 +1,35 @@
+.topbar{
+    background-color: rgb(12, 12, 12);
+    display: flex;
+    justify-content: space-between;
+   
+  }
+  .wools{
+    display: flex;
+    margin: 2vh;
+  }
+
+  .pwools{
+   font-size: large;
+   
+   
+   
+  }
+  .logout{
+    color: white;
+    margin: 3vh;
+  }
+  .logOut{
+    display: flex;
+    margin: 1vh;
+  }
+ 
+  .cl-internal-1ho4xv{
+    color: aliceblue;
+  }
+  .cl-internal-1jszspb{
+    margin: 3vh;
+  }
+  
+  
+  
